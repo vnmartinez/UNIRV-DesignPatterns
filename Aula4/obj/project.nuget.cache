@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RG3dM0azDNG2iCSSYomgFUMqIcw9Arg/XO2kAJkKuWE5yp8fGiVhEwFm7g9cEFmvCb8M/9WjqcRhsD72VUHgjA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vnmar\\Downloads\\Aula4\\Aula4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vnmar\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\vnmar\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\vnmar\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\vnmar\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

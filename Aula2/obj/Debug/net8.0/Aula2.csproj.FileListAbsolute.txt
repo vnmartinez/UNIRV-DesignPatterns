@@ -1,0 +1,14 @@
+C:\Users\vnmar\Documents\Faculdade\Métodos Avançados\Aula2\obj\Debug\net8.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vnmar\Documents\Faculdade\Métodos Avançados\Aula2\obj\Debug\net8.0\Aula2.AssemblyInfoInputs.cache
+C:\Users\vnmar\Documents\Faculdade\Métodos Avançados\Aula2\obj\Debug\net8.0\Aula2.AssemblyInfo.cs
+C:\Users\vnmar\Documents\Faculdade\Métodos Avançados\Aula2\obj\Debug\net8.0\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\vnmar\Documents\Faculdade\Métodos Avançados\Aula2\bin\Debug\net8.0\Aula2.exe
+C:\Users\vnmar\Documents\Faculdade\Métodos Avançados\Aula2\bin\Debug\net8.0\Aula2.deps.json
+C:\Users\vnmar\Documents\Faculdade\Métodos Avançados\Aula2\bin\Debug\net8.0\Aula2.runtimeconfig.json
+C:\Users\vnmar\Documents\Faculdade\Métodos Avançados\Aula2\bin\Debug\net8.0\Aula2.dll
+C:\Users\vnmar\Documents\Faculdade\Métodos Avançados\Aula2\bin\Debug\net8.0\Aula2.pdb
+C:\Users\vnmar\Documents\Faculdade\Métodos Avançados\Aula2\obj\Debug\net8.0\Aula2.dll
+C:\Users\vnmar\Documents\Faculdade\Métodos Avançados\Aula2\obj\Debug\net8.0\refint\Aula2.dll
+C:\Users\vnmar\Documents\Faculdade\Métodos Avançados\Aula2\obj\Debug\net8.0\Aula2.pdb
+C:\Users\vnmar\Documents\Faculdade\Métodos Avançados\Aula2\obj\Debug\net8.0\Aula2.genruntimeconfig.cache
+C:\Users\vnmar\Documents\Faculdade\Métodos Avançados\Aula2\obj\Debug\net8.0\ref\Aula2.dll

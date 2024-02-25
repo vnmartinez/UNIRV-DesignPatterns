@@ -1,0 +1,14 @@
+c:\Users\hygor\OneDrive\Documentos\UniRV\Disciplinas\2024-01\ESW242 TÉCNICAS AVANÇADAS DE CONSTRUÇÃO DE SOFTWARE\Codigos\Aula4\bin\Debug\net7.0\Aula4.exe
+c:\Users\hygor\OneDrive\Documentos\UniRV\Disciplinas\2024-01\ESW242 TÉCNICAS AVANÇADAS DE CONSTRUÇÃO DE SOFTWARE\Codigos\Aula4\bin\Debug\net7.0\Aula4.deps.json
+c:\Users\hygor\OneDrive\Documentos\UniRV\Disciplinas\2024-01\ESW242 TÉCNICAS AVANÇADAS DE CONSTRUÇÃO DE SOFTWARE\Codigos\Aula4\bin\Debug\net7.0\Aula4.runtimeconfig.json
+c:\Users\hygor\OneDrive\Documentos\UniRV\Disciplinas\2024-01\ESW242 TÉCNICAS AVANÇADAS DE CONSTRUÇÃO DE SOFTWARE\Codigos\Aula4\bin\Debug\net7.0\Aula4.dll
+c:\Users\hygor\OneDrive\Documentos\UniRV\Disciplinas\2024-01\ESW242 TÉCNICAS AVANÇADAS DE CONSTRUÇÃO DE SOFTWARE\Codigos\Aula4\bin\Debug\net7.0\Aula4.pdb
+c:\Users\hygor\OneDrive\Documentos\UniRV\Disciplinas\2024-01\ESW242 TÉCNICAS AVANÇADAS DE CONSTRUÇÃO DE SOFTWARE\Codigos\Aula4\obj\Debug\net7.0\Aula4.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hygor\OneDrive\Documentos\UniRV\Disciplinas\2024-01\ESW242 TÉCNICAS AVANÇADAS DE CONSTRUÇÃO DE SOFTWARE\Codigos\Aula4\obj\Debug\net7.0\Aula4.AssemblyInfoInputs.cache
+c:\Users\hygor\OneDrive\Documentos\UniRV\Disciplinas\2024-01\ESW242 TÉCNICAS AVANÇADAS DE CONSTRUÇÃO DE SOFTWARE\Codigos\Aula4\obj\Debug\net7.0\Aula4.AssemblyInfo.cs
+c:\Users\hygor\OneDrive\Documentos\UniRV\Disciplinas\2024-01\ESW242 TÉCNICAS AVANÇADAS DE CONSTRUÇÃO DE SOFTWARE\Codigos\Aula4\obj\Debug\net7.0\Aula4.csproj.CoreCompileInputs.cache
+c:\Users\hygor\OneDrive\Documentos\UniRV\Disciplinas\2024-01\ESW242 TÉCNICAS AVANÇADAS DE CONSTRUÇÃO DE SOFTWARE\Codigos\Aula4\obj\Debug\net7.0\Aula4.dll
+c:\Users\hygor\OneDrive\Documentos\UniRV\Disciplinas\2024-01\ESW242 TÉCNICAS AVANÇADAS DE CONSTRUÇÃO DE SOFTWARE\Codigos\Aula4\obj\Debug\net7.0\refint\Aula4.dll
+c:\Users\hygor\OneDrive\Documentos\UniRV\Disciplinas\2024-01\ESW242 TÉCNICAS AVANÇADAS DE CONSTRUÇÃO DE SOFTWARE\Codigos\Aula4\obj\Debug\net7.0\Aula4.pdb
+c:\Users\hygor\OneDrive\Documentos\UniRV\Disciplinas\2024-01\ESW242 TÉCNICAS AVANÇADAS DE CONSTRUÇÃO DE SOFTWARE\Codigos\Aula4\obj\Debug\net7.0\Aula4.genruntimeconfig.cache
+c:\Users\hygor\OneDrive\Documentos\UniRV\Disciplinas\2024-01\ESW242 TÉCNICAS AVANÇADAS DE CONSTRUÇÃO DE SOFTWARE\Codigos\Aula4\obj\Debug\net7.0\ref\Aula4.dll
